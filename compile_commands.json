@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/tmp/build/memory-safety",
+  "command": "clang  -I/home/runner/ChatGPT-GKT/include  -o CMakeFiles/memory2.dir/memory2.c.o -c /home/runner/ChatGPT-GKT/memory-safety/memory2.c",
+  "file": "/home/runner/ChatGPT-GKT/memory-safety/memory2.c"
+},
+{
+  "directory": "/tmp/build/memory-safety",
+  "command": "clang  -I/home/runner/ChatGPT-GKT/include  -o CMakeFiles/memory1.dir/memory1.c.o -c /home/runner/ChatGPT-GKT/memory-safety/memory1.c",
+  "file": "/home/runner/ChatGPT-GKT/memory-safety/memory1.c"
+},
+{
+  "directory": "/tmp/build/memory-safety",
+  "command": "clang  -I/home/runner/ChatGPT-GKT/include  -o CMakeFiles/memory0.dir/memory0.c.o -c /home/runner/ChatGPT-GKT/memory-safety/memory0.c",
+  "file": "/home/runner/ChatGPT-GKT/memory-safety/memory0.c"
+}
+]
