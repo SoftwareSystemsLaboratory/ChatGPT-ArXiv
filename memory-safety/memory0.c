@@ -1,7 +1,3 @@
-//
-// Conversation with Chat-GPT. First answer.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 
